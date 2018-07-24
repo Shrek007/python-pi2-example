@@ -3,16 +3,10 @@
 def main(msg):
     print(msg)
 
-#Yet another comment
+#no longer need comments here
 
-#here are 
-#a bunch of
-#different
-#comments to induce a merge error
-#hopefully
-
-#this is just a comment
-
+def spam():
+    print("new func!")
 
 main("Hey hey hey...")
 
