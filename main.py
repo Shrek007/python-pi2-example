@@ -3,6 +3,8 @@
 def main(msg):
     print(msg)
 
+#this is just a comment
+
 main("Hey hey hey...")
 
 print("hello world")
